@@ -1,9 +1,0 @@
-/* #validation-input {
-    border: 3px solid #bdbdbd;
-  }; */
-  #validation-input.valid {
-    border: 3px solid #4caf50;
-  };
-  #validation-input.invalid {
-    border: 3px solid #f44336;
-  };
